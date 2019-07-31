@@ -1,0 +1,13 @@
+git
+maven
+tomcat
+sonarqube
+nexus
+jenkins
+docker
+kubernetes
+AWS
+Ansible
+nagios
+
+
