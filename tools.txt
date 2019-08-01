@@ -1,13 +1,14 @@
 git
-maven
-tomcat
-sonarqube
-nexus
-jenkins
-docker
-kubernetes
+Maven
+Tomcat
+SonarQube
+Nexus
+Jenkins
+Docker
+DockerSwarm
+Kubernetes
 AWS
 Ansible
-nagios
+NewRelic
 
 
